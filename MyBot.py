@@ -155,3 +155,5 @@ async def update_inventory(interaction: discord.Interaction, team: str, item: st
 
 
 bot.run(TOKEN)
+
+# example - add comment made an example comment here, which will change file code for example - ok
